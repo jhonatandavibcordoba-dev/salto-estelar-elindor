@@ -1,1 +1,1 @@
-<placeholder>
+<real shop.js>

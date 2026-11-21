@@ -1,1 +1,1 @@
-<placeholder>
+<real main.js>
